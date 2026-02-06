@@ -2,7 +2,7 @@
 A directory to store documentation and meeting outcomes for the Polymesh Technical Steering Committee.
 
 ## Charter
-The Polymesh Technical Steering Committee is operated under the [TSC Charter](https://github.com/PolymeshAssociation/technical-steering-committee/Polymesh-TSC-Charter-Final-29Jan2026).
+The Polymesh Technical Steering Committee is operated under the [TSC Charter](https://github.com/PolymeshAssociation/technical-steering-committee/blob/main/Polymesh-TSC-Charter-Final-29Jan2026.pdf).
 
 ## Meetings
 See the [Calendar of Public Meetings](https://insert.google.calendar.link.here) for the next meeting and dial-in details.
